@@ -1,0 +1,2 @@
+# ExerciciosEmPython
+ Apenas arquivos .py
